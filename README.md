@@ -57,6 +57,22 @@ The frontend is structured to support a real authentication flow in the future.
 
 ---
 
+## Planned Authentication (Backend Phase)
+
+This project is intended to become a small private app for my household, so authentication is planned for the backend phase.
+
+Planned approach:
+
+- Login required to access the app features
+
+- Server managed sessions or token based auth (decision will be made when the backend is implemented)
+
+- Protected API routes (only authenticated users can read or modify data)
+
+Note: The current version is frontend only. No real authentication is implemented yet.
+
+---
+
 ## Project Status
 
 🚧 **Work in Progress**
