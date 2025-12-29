@@ -27,10 +27,13 @@ This project is a learning project and is intentionally developed step by step.
 
 ## Project Structure
 
+```
 what-to-eat/
   frontend/
   backend/
   README.md
+```
+
 
 
 The `backend` folder is intentionally empty and reserved for a future implementation.
